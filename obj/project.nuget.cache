@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBs8c0bZ8cY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dorsay\\source\\repos\\Anti-Spam\\Anti-Spam\\Anti-Spam.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dorsay\\.nuget\\packages\\restoremonarchy.rocketredist\\3.26.1.1\\restoremonarchy.rocketredist.3.26.1.1.nupkg.sha512",
+    "C:\\Users\\Dorsay\\.nuget\\packages\\restoremonarchy.unturnedredist\\3.26.1.1\\restoremonarchy.unturnedredist.3.26.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

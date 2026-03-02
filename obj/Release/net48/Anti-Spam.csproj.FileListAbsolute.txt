@@ -1,0 +1,11 @@
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\bin\Release\net48\Anti-Spam.dll
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\bin\Release\net48\Anti-Spam.pdb
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\bin\Release\net48\ShimmyMySherbet.DiscordWebhooks.v2.0.0.0.dll
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.csproj.AssemblyReference.cache
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.AssemblyInfoInputs.cache
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.AssemblyInfo.cs
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.csproj.CoreCompileInputs.cache
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.csproj.Up2Date
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.dll
+C:\Users\Dorsay\source\repos\Anti-Spam\Anti-Spam\obj\Release\net48\Anti-Spam.pdb

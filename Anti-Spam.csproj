@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+	  <LangVersion>latest</LangVersion>
+	  <RootNamespace>Sani.Anti_Spam</RootNamespace>
+    <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="RestoreMonarchy.RocketRedist" Version="3.*" ExcludeAssets="runtime" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ShimmyMySherbet.DiscordWebhooks">
+      <HintPath>..\..\..\..\Downloads\ShimmyMySherbet.DiscordWebhooks.v2.0.0.0.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
